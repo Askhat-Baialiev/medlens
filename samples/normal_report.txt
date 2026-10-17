@@ -1,0 +1,13 @@
+Patient Lab Report
+Hemoglobin: 14.2 g/dL
+WBC: 6.5 x10^9/L
+Platelets: 250 x10^9/L
+Fasting Glucose: 92 mg/dL
+HbA1c: 5.3 %
+Total Cholesterol: 185 mg/dL
+LDL: 95 mg/dL
+HDL: 55 mg/dL
+Triglycerides: 120 mg/dL
+TSH: 2.1 mIU/L
+Creatinine: 0.9 mg/dL
+ALT: 25 U/L
